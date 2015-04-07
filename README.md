@@ -1,5 +1,5 @@
 # coderbyte
-My Coderbyte Javascript answers
+Coderbyte Javascript Solutions
 
 These are solutions to the Javascript track at coderbyte.com. I would do each problem myself and then look at how others did it differently, in particular how they accomplished something with fewer lines of code. At the top of each file, I wrote a small summary explaining important concepts.
 
